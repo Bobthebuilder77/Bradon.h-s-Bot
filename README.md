@@ -1,6 +1,6 @@
 Server link:
 (Main server): 
-(Bot invite - NOT PUBLIC): 
+(Bot invite - NOT PUBLIC): https://discord.com/api/oauth2/authorize?client_id=915710073349738517&permissions=8&scope=bot
 
 BOT INFORMATION
 ---
